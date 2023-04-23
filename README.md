@@ -13,3 +13,7 @@ Vault Example in C# and Go
 
 1. .NET 8 or newer
 2. Go
+
+## More details
+
+Part of series: [TBA]()

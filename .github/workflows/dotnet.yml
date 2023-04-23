@@ -18,6 +18,8 @@ jobs:
           dotnet-version: '8.0.x'
           dotnet-quality: 'preview'
       - name: Install dependencies
+        working-directory: 'csharp/VaultExample'
         run: dotnet restore
       - name: Build
+        working-directory: 'csharp/VaultExample'
         run: dotnet build --configuration Release --no-restore

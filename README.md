@@ -16,4 +16,4 @@ Vault Example in C# and Go
 
 ## More details
 
-Part of series: [TBA]()
+Part of series: [Exploring HashiCorp Vault](https://dev.to/berviantoleo/exploring-hashicorp-vault-with-vault-net-client-library-194n)
